@@ -1,2 +1,5 @@
-# kotlin-androidStudio-basics
-Repository to help learn the basics of Kotlin and Android Studio wiithout having to read documentation  
+# Kotlin
+Basics at kotlinBasics.md
+
+# Android Studio 
+In progress
